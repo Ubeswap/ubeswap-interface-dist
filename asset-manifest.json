@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "./static/css/main.a4364d00.chunk.css",
-    "main.js": "./static/js/main.53b4dc89.chunk.js",
+    "main.js": "./static/js/main.79d29371.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.510b5418.js",
     "static/css/2.049797c3.chunk.css": "./static/css/2.049797c3.chunk.css",
-    "static/js/2.590c8a4b.chunk.js": "./static/js/2.590c8a4b.chunk.js",
+    "static/js/2.2132ae7c.chunk.js": "./static/js/2.2132ae7c.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.590c8a4b.chunk.js.LICENSE.txt": "./static/js/2.590c8a4b.chunk.js.LICENSE.txt",
+    "static/js/2.2132ae7c.chunk.js.LICENSE.txt": "./static/js/2.2132ae7c.chunk.js.LICENSE.txt",
     "static/media/big_unicorn.be45c251.png": "./static/media/big_unicorn.be45c251.png",
     "static/media/blue-loader.249140da.svg": "./static/media/blue-loader.249140da.svg",
     "static/media/dropdown.fef18eeb.svg": "./static/media/dropdown.fef18eeb.svg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.510b5418.js",
     "static/css/2.049797c3.chunk.css",
-    "static/js/2.590c8a4b.chunk.js",
+    "static/js/2.2132ae7c.chunk.js",
     "static/css/main.a4364d00.chunk.css",
-    "static/js/main.53b4dc89.chunk.js"
+    "static/js/main.79d29371.chunk.js"
   ]
 }
