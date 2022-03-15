@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "./static/css/main.a4364d00.chunk.css",
-    "main.js": "./static/js/main.6a56ab68.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.49b3431b.js",
-    "static/css/2.becd08ce.chunk.css": "./static/css/2.becd08ce.chunk.css",
-    "static/js/2.617cfbaf.chunk.js": "./static/js/2.617cfbaf.chunk.js",
+    "main.js": "./static/js/main.41585780.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.510b5418.js",
+    "static/css/2.049797c3.chunk.css": "./static/css/2.049797c3.chunk.css",
+    "static/js/2.12f7be91.chunk.js": "./static/js/2.12f7be91.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.617cfbaf.chunk.js.LICENSE.txt": "./static/js/2.617cfbaf.chunk.js.LICENSE.txt",
+    "static/js/2.12f7be91.chunk.js.LICENSE.txt": "./static/js/2.12f7be91.chunk.js.LICENSE.txt",
     "static/media/big_unicorn.be45c251.png": "./static/media/big_unicorn.be45c251.png",
     "static/media/blue-loader.249140da.svg": "./static/media/blue-loader.249140da.svg",
     "static/media/dropdown.fef18eeb.svg": "./static/media/dropdown.fef18eeb.svg",
@@ -20,10 +20,10 @@
     "static/media/xl_uni.89be1dda.png": "./static/media/xl_uni.89be1dda.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.49b3431b.js",
-    "static/css/2.becd08ce.chunk.css",
-    "static/js/2.617cfbaf.chunk.js",
+    "static/js/runtime-main.510b5418.js",
+    "static/css/2.049797c3.chunk.css",
+    "static/js/2.12f7be91.chunk.js",
     "static/css/main.a4364d00.chunk.css",
-    "static/js/main.6a56ab68.chunk.js"
+    "static/js/main.41585780.chunk.js"
   ]
 }
